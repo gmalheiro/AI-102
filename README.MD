@@ -85,11 +85,6 @@ Contributions are welcome! If you have suggestions, resources, or improvements, 
 3. Commit your changes (`git commit -m 'Add some feature'`)
 4. Push to the branch (`git push origin feature-branch`)
 5. Open a pull request
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ---
 
 Thank you for visiting my repository. I hope you find the materials and projects helpful in your own journey to obtaining the AI-102 certification!
