@@ -73,7 +73,7 @@ I will keep detailed notes on various topics covered in the certification, inclu
 I will regularly update this section with my progress, including completed modules, projects, and any milestones achieved.
 
 - [x] Module 1: Introduction to AI
-- [ ] Module 2: Working with Cognitive Services
+- [x] Module 2: Working with Cognitive Services
 - [ ] Module 3: Building and Deploying Bots
 
 ## Contributing
