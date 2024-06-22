@@ -71,6 +71,11 @@ I will regularly update this section with my progress, including completed modul
 - [ ]  Build an Image Classifier with Microsoft Azure Cognitive Service
 - [ ]  Build a Video Indexer with Microsoft Azure Cognitive Service
 - [ ]  Build a Speech Recognition Solution Microsoft Azure
+- [ ]  Build a Natural Language Processing Solution with Microsoft Azure
+- [ ]  Build a Language Model by using Language Understanding Service(LUIS)
+- [ ]  Build a Knowledge Mining Solution with Microsoft Azure
+- [ ]  Build a Conversational AI Solution with Microsoft Azure
+- [ ]  Create a Bot by using the Bot Framework SDK with Microsoft Azure
 
 ## Contributing
 
