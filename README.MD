@@ -8,9 +8,8 @@ Welcome to my GitHub repository documenting my journey to acquire the AI-102 cer
 2. [Why AI-102?](#why-ai-102)
 3. [Study Plan](#study-plan)
 4. [Resources](#resources)
-5. [Notes](#notes)
-6. [Progress](#progress)
-7. [Contributing](#contributing)
+5. [Progress](#progress)
+6. [Contributing](#contributing)
 
 ## Overview
 
