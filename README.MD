@@ -36,8 +36,6 @@ My study plan includes the following steps:
 
 3. **Hands-on Practice:**
    - Building projects and labs
-   - Working on practical implementations
-
 4. **Review and Revise:**
    - Taking practice tests
    - Reviewing notes and key concepts
@@ -51,22 +49,6 @@ Here are some resources I am using for my preparation:
 - [Pluralsight AI-102 Courses](https://www.pluralsight.com/paths/microsoft-azure-ai-engineer-associate-ai-102)
 - [Udemy AI-102 Preparation Course](https://www.udemy.com/course/azure-ai-engineer-ai-102/)
 - [YouTube Tutorials](https://www.youtube.com/results?search_query=AI-102+certification)
-
-## Projects
-
-This section contains various projects I am working on to gain practical experience. Each project has its own folder with detailed documentation and source code.
-
-1. **Project 1: Sentiment Analysis with Azure Cognitive Services**
-2. **Project 2: Chatbot Implementation using Azure Bot Service**
-3. **Project 3: Image Recognition using Custom Vision**
-
-## Notes
-
-I will keep detailed notes on various topics covered in the certification, including key concepts, important links, and summaries of each module.
-
-- [Module 1: Introduction to AI](notes/module1.md)
-- [Module 2: Working with Cognitive Services](notes/module2.md)
-- [Module 3: Building and Deploying Bots](notes/module3.md)
 
 ## Progress
 
