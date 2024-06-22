@@ -8,11 +8,9 @@ Welcome to my GitHub repository documenting my journey to acquire the AI-102 cer
 2. [Why AI-102?](#why-ai-102)
 3. [Study Plan](#study-plan)
 4. [Resources](#resources)
-5. [Projects](#projects)
-6. [Notes](#notes)
-7. [Progress](#progress)
-8. [Contributing](#contributing)
-9. [License](#license)
+5. [Notes](#notes)
+6. [Progress](#progress)
+7. [Contributing](#contributing)
 
 ## Overview
 
@@ -54,9 +52,25 @@ Here are some resources I am using for my preparation:
 
 I will regularly update this section with my progress, including completed modules, projects, and any milestones achieved.
 
-- [x] Module 1: Introduction to AI
-- [x] Module 2: Working with Cognitive Services
-- [ ] Module 3: Building and Deploying Bots
+### Microsoft Learn
+
+- [x] Module 1: Get Started with Azure AI Services
+- [ ] Module 2: Create computer vision solutions with Azure AI Vision
+- [ ] Module 3: Develop natural language processing solutions with Azure AI Services
+- [ ] Module 4: Implement Knowledge mining with Azure AI Search
+- [ ] Module 5: Develop solutions with Azure AI Document Intelligence
+- [ ] Module 6: Develop Generative AI solutions with Azure OpenAI Service
+
+### Pluralsight
+
+- [x]  Data Literacy: Essentials of Microsoft Azure Cognitive Services
+- [x]  Getting started with Microsoft Azure Computer Vision API
+- [ ]  Build a Form Recognizer With Microsoft Azure Computer Vision
+- [ ]  Build a Face Recognition Solution with Microsoft Azure Face API
+- [ ]  Build an Object detection Solution with Microsoft Azure Custom Vision Service
+- [ ]  Build an Image Classifier with Microsoft Azure Cognitive Service
+- [ ]  Build a Video Indexer with Microsoft Azure Cognitive Service
+- [ ]  Build a Speech Recognition Solution Microsoft Azure
 
 ## Contributing
 
